@@ -1,9 +1,9 @@
 # ufuk-techclass.github.io
 Portfolio
 
-1) Master's Thesis 
+1) Master's Thesis \
   Demo: https://www.youtube.com/watch?v=ZeRS3BSfVp8 \
-  Code: https://github.com/ufuk-techclass/thesis_summary \
+  Code: https://github.com/ufuk-techclass/thesis_summary 
 
 2) Angular 10, Restaurant-app project
   Demo Instructions: https://github.com/ufuk-techclass/restaurant-app/blob/master/README.md
